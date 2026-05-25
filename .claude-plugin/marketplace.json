@@ -9,7 +9,10 @@
   "plugins": [
     {
       "name": "agent-team",
-      "source": "./plugins/agent-team"
+      "source": {
+        "source": "github",
+        "repo": "yjydist/agent-team"
+      }
     }
   ],
   "version": "1.0.0"
