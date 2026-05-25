@@ -9,6 +9,7 @@
   "plugins": [
     {
       "name": "agent-team",
+      "strict": true,
       "source": {
         "source": "url",
         "url": "https://github.com/yjydist/agent-team"
