@@ -8,10 +8,10 @@
   },
   "plugins": [
     {
-      "name": "agent-team",
+      "name": "team",
       "source": {
         "source": "url",
-        "url": "https://github.com/yjydist/agent-team"
+        "url": "https://github.com/yjydist/team"
       }
     },
     {
