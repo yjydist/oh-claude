@@ -12,8 +12,8 @@
     {
       "name": "agent-team",
       "source": {
-        "repo": "yjydist/agent-team",
-        "source": "github"
+        "source": "url",
+        "url": "https://github.com/yjydist/agent-team"
       }
     }
   ]
