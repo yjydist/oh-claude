@@ -6,15 +6,11 @@
     "email": "yjydist@qq.com",
     "url": "https://github.com/yjydist/oh-claude"
   },
-  "description": "个人用的 agent 集合",
-  "version": "1.0.0",
   "plugins": [
     {
       "name": "agent-team",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/yjydist/agent-team"
-      }
+      "source": "./plugins/agent-team"
     }
-  ]
+  ],
+  "version": "1.0.0"
 }
