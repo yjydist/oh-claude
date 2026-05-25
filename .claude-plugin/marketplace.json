@@ -8,17 +8,13 @@
   },
   "description": "个人用的 agent 集合",
   "version": "1.0.0",
-  "allowCrossMarketplaceDependenciesOn": [],
-  "metadata": {},
   "plugins": [
     {
       "name": "agent-team",
       "source": {
         "repo": "yjydist/agent-team",
-        "source": "github",
-        "ref": "main"
-      },
-      "description": "个人用的 agent 团队"
+        "source": "github"
+      }
     }
   ]
 }
