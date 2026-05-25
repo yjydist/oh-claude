@@ -1,0 +1,24 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "oh-claude",
+  "owner": {
+    "name": "yjydist",
+    "email": "yjydist@qq.com",
+    "url": "https://github.com/yjydist/oh-claude"
+  },
+  "description": "个人用的 agent 集合",
+  "forceRemoveDeletedPlugins": true,
+  "version": "1.0.0",
+  "allowCrossMarketplaceDependenciesOn": [],
+  "metadata": {},
+  "plugins": [
+    {
+      "name": "agent-team",
+      "source": {
+        "repo": "yjydist/agent-team",
+        "source": "github",
+        "ref": "main"
+      }
+    }
+  ]
+}
