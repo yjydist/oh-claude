@@ -20,6 +20,13 @@
         "source": "url",
         "url": "https://github.com/yjydist/frontend-skills"
       }
+    },
+    {
+      "name": "learn-something",
+      "source":{
+        "source": "url",
+        "url": "https://github.com/yjydist/learn-something"
+      }
     }
   ]
 }
